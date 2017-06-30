@@ -48,7 +48,7 @@ This little example project registers two event listener by using the xml mechan
 The project can be found in the "test" source folder in the "example" package. It consists of the following elements:
 
 1. "hooks": This package contains two example event listener.
-    1. "CheckForJavascriptErrorsHook": This hook injects some javascript into the webpage and checks after each action, if a javascript error occurred.
+    1. "CheckForJavascriptErrorsHook": This hook injects some javascript into the webpage and checks after each action if a javascript error occurred.
     2. "WebDriverActionProtocolHook": This hook prints actions like button clicks in the output terminal.
 2. "pages": This package contains a simple page object which represents the the Bing search page.
-3. "tests": This package contains the "Test" class which executes the test with the hook from 1.
+3. "tests": This package contains the "Test" class which executes the test with the hooks from 1.
