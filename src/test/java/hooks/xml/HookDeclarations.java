@@ -8,7 +8,7 @@ import java.util.List;
 /**
  * Root structure for hook declarations.
  **/
-@Root
+@Root(name = "root")
 public class HookDeclarations {
 
     /**

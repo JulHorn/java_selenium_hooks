@@ -1,6 +1,6 @@
-<hooks>
+<root>
    <Hooks class="java.util.ArrayList">
    		<hook HookPath="example.hooks.CheckForJavascriptErrorsHook"/>
    		<hook HookPath="example.hooks.WebDriverActionProtocolHook"/>
    </Hooks>
-</hooks>
+</root>
