@@ -22,8 +22,8 @@ All you need to do is call the "Hooks.registerHooks(seleniumWebDriverObject, "pa
 
 In order to use this feature you have to add the following dependencies to your project:
 
-1. [Selenium server] (http://docs.seleniumhq.org/download/) (tested with version 3.3.1)
-2. [Simple XML] (http://simple.sourceforge.net/) (tested with version 2.7.1)
+1. [Selenium server](http://docs.seleniumhq.org/download/) (tested with version 3.3.1)
+2. [Simple XML](http://simple.sourceforge.net/) (tested with version 2.7.1)
 
 The version of the dependencies should not influence this projects behaviour.
 Look up the gradle file to see the gradle dependencies declarations.
